@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GenericWebServer.iml" filepath="$PROJECT_DIR$/.idea/modules/GenericWebServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GenericWebServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GenericWebServer_main.iml" group="GenericWebServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GenericWebServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GenericWebServer_test.iml" group="GenericWebServer" />
+    </modules>
+  </component>
+</project>
