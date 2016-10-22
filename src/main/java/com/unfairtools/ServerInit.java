@@ -59,8 +59,8 @@ public class ServerInit {
         args[0]="db2";
         args[1]="brianroberts";
         args[2]="password1";
-        args[3]="8082";
-        args[4]="table1";
+        args[3]="8090";
+        args[4]="table2";
 
         //should not end with '/'
         args[5]="nancy_site_files";
